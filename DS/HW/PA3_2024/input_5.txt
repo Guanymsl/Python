@@ -1,0 +1,15 @@
+insert 20 19 18 17 16 15 14 12 13 11 10 9 8 7 6 4 5 3 2 1
+postorder
+internalnode
+preorder
+leafnode
+delete 4
+delete 21
+leafnode
+delete 20
+max
+min
+level
+inorder
+delete 12
+inorder

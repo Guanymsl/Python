@@ -1,0 +1,10 @@
+insert 8 9 10 11 12 13 14 15 16 17 18 7 6 5 4 3 2 1
+inorder
+delete 8
+inorder
+delete 7
+inorder
+delete 6
+inorder
+internalnode
+leafnode

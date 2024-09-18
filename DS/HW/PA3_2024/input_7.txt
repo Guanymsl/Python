@@ -1,0 +1,14 @@
+insert 7 2 1 5 4 6 8
+preorder
+postorder
+delete 2
+delete 5
+delete 10
+delete 4
+delete 6
+delete 8
+max
+min
+inorder
+level
+internalnode

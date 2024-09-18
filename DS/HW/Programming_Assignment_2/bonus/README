@@ -1,0 +1,11 @@
+Name any PNG image as example.jpg (Recommended maximum pixel: 300x300)
+Code will first turn the image into greyscale image
+
+Package Needed: Ghostscript, Python Turtle, ...
+
+Run:
+python hilbert.py
+python hilbert_art.py
+
+Minimize the window will make py turtle run extremely fast, but the order3 hilbert curve in
+hilbert_art.py seems bad in the result hilbert_art.png, while seems good in the py turtle window.
